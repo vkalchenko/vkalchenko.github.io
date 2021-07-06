@@ -18,6 +18,14 @@ My expertise covers:
 
 ### Experience
 
+##### Apr 2021 - Now — Senior Magento 2 Developer at Websolutions NYC
+I am responsible for a high-level e-commerce support, covering all technical aspects such as
+* security audit
+* Magento hosting setup
+* Magento version upgrade
+* delivering new features (from requirements gathering and documentation to a fully working solution)
+
+
 ##### Sep 2013 - Mar 2021 — Magento 2 Developer at Gorilla Group
 For the 7 years in Gorilla Group I passed the way from a regular developer to Lead Engineer.
 
